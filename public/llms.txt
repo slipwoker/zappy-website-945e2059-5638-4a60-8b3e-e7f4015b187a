@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הכרויות אמיתיות בזמן אמת לגרושים והורים יחידניים. התאמות מיידיות ללא גלילה אינסופית. התחילו מסע היכרויות חדש עם SyncWish היום!
+
+### איך זה עובד
+https://example.com/how-it-works
+התאמות בזמן אמת במקום גלילה אינסופית. למדו איך SyncWish מחברת גרושים והורים יחידניים לשיחות אמיתיות ברגע הנכון. פשוט, מהיר ויעיל!
+
+### בטיחות ואמון
+https://example.com/safety
+אבטחה מלאה והגנה על הפרטיות שלכם. גלו איך SyncWish שומרת על בטיחות גרושים והורים יחידניים בהיכרויות אונליין. אמון הוא הבסיס שלנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על היכרויות בזמן אמת? צרו קשר עם צוות SyncWish. אנחנו כאן כדי לעזור לגרושים והורים יחידניים למצוא את ההתאמה המושלמת!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
